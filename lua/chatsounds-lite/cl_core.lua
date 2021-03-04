@@ -1,5 +1,7 @@
--- chatsoundsLite.soundListURL = "http://slow.evilfactory.tk:8080/nuvem/chatsounds_lists.json"
+
+-- host the lists yourself or use my current hosted one
 chatsoundsLite.soundListURL = "http://evilfactory.tk/nuvem/lists.json"
+
 chatsoundsLite.soundURL =
 	"https://raw.githubusercontent.com/Metastruct/garrysmod-chatsounds/master/sound/"
 
